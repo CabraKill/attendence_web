@@ -15,6 +15,9 @@ dependencies:
   bloc: ^0.15.0
   flutter_bloc: ^0.21.0
   flare_flutter: ^1.6.2
+  #flutter_webview_plugin: 0.3.0+2
+  #webview_flutter: 0.2.0
+  
 
 dev_dependencies:
   flutter_test:
